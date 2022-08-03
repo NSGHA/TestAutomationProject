@@ -1,0 +1,1 @@
+{"uuid":"f37f88af-b97a-482e-9d7f-d349ce2ac42f","name":"com.labcorp.rest.tests.CreateUserAndGetUser","children":["2fa58afe-91aa-46f2-af1d-7c7cf655a48f"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1659299503724,"stop":1659299504405}],"afters":[],"start":1659299503681,"stop":1659299507046}
